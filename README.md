@@ -4,12 +4,12 @@
   "startmenu.multiplayer": "MULTIJUGADOR",
   "startmenu.resume_game": "REANUDAR PARTIDA",
   "startmenu.settings": "Configuración",
-  "startmenu.high_score": "Puntaje Alto",
+  "startmenu.high_score": "Mejores Puntajes",
   "startmenu.throne_room": "Sala del Trono",
-  "startmenu.about": "About",
+  "startmenu.about": "Acerca de",
 
-  "news.title": "POLYTOPIA NEWS",
-  "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
+  "news.title": "NOTICIAS DE POLYTOPIA",
+  "news.description": "¡Bienvenido!\n Aquí publicamos las noticias más recientes del universo de Polytopia. ¡Mantente informado!",
   "gamemodepicker.title": "GAME MODE",
 
   "tribepicker.title": "PICK YOUR TRIBE",
