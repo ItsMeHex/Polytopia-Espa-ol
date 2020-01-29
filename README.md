@@ -98,7 +98,7 @@
   "gamemode.domination.description.button": "Juega hasta que sólo quede una raza, sin límite de tiempo.",
   "gamemode.domination.description": "Borra el nombre de todos tus enemigos del mapa. Sólo puede quedar uno.",
   "gamemode.domination.win": "Derrotaste a todos, el mapa ha sido unificado!",
-  "gamemode.domination.loss": "Your last city was lost, you have been defeated.",
+  "gamemode.domination.loss": "Perdiste tu última ciudad, has sido derrotado.",
   "gamemode.glory.caps": "GLORIA",
   "gamemode.glory": "Gloria",
   "gamemode.glory.description": "El primero en conseguir {0} puntos gana",
