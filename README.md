@@ -186,7 +186,7 @@
   "tribes.aimo": "Ai-Mo",
   "tribes.aimo.info": "La tranquila y sabía raza {0} habita las más crueles, ventosas y altas montañas en el mundo, encontraron la paz interior meditando bajo en la eterna luz del atardecer. \n\nLos {0} comienzan con la tecnología '{1}'.",
   "tribes.aquarion": "Aquarion",
-  "tribes.aquarion.info": "Desde los profundos océanos, ¡aparece una civilización perdida! El extremo aislamiento les dió habilidades acuáticas especiales abilities desconocidas para las demás razas.\n\nLos {0} tienen un árbol tecnológico un poco distinto y tienen acceso a tropas tortuga únicas en su especie, inalcanzables para cualquier otra raza.",
+  "tribes.aquarion.info": "Desde los profundos océanos, ¡aparece una civilización perdida! El extremo aislamiento les dió habilidades acuáticas especiales desconocidas para las demás razas.\n\nLos {0} tienen un árbol tecnológico un poco distinto y tienen acceso a tropas tortuga únicas en su especie, inalcanzables para cualquier otra raza.",
   "tribes.quetzali": "Quetzali",
   "tribes.quetzali.info": "La raza {0} adora a los dioses pájaro de las tierras rojas y viven en armonía con la natural simetría de sus junglas cúbicas. Comúnmente son vistos montando grandes aves no voladoras. \n\nLos {0} comienzan con la tecnología '{1}'.",
   "tribes.elyrion": "âˆ‘âˆ«á»¹riÈ±Å‹",
