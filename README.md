@@ -179,7 +179,7 @@
   "tribes.luxidoor": "Luxidoor",
   "tribes.luxidoor.info": "Los {0} aman las cosas costosas, joyas, especias exóticas y decoraciones exclusivas. Esa es la razón por la que son la tribu más costosa en Polytopia!\n\nSus ciudadanos llevan vidas muy cómodas, vestidos con la seda púrpura más fina. Pero podrán sobrevivir fuera de los muros de su amada capital?  \n\nLos {0} comienzan con una enorme capital amurallada.",
   "tribes.vengir": "Vengir",
-  "tribes.vengir.info": "Pisoteados por otras razas y exiliados a los abominables baldíos. Tolerarán está injusticia? O acaso contraatacarán?  \n\nLos {0} comienzan con la tecnología '{1}' y un poderoso espadachín.",
+  "tribes.vengir.info": "Pisoteados por otras razas y exiliados a los abominables baldíos. ¿Tolerarán está injusticia?¿O acaso contraatacarán..?  \n\nLos {0} comienzan con la tecnología '{1}' y un poderoso espadachín.",
   "tribes.zebasi": "Zebasi",
   "tribes.zebasi.info": "Los {0} prosperan en la cálida sabana, cultivando los ricos suelos para alimentar a su gran población. \n\nLos {0} comienzan con la tecnología '{1}'.",
   "tribes.zebasi.news": "Todo el dinero recaudado por la raza Zebasi es invertido en proyectos de energía solar.",
